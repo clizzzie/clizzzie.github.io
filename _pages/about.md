@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://scripps.ucsd.edu/'>Scripps Institution of Oceanography</a>. nclizzie@ucsd.edu
+subtitle: <a href='https://scripps.ucsd.edu/'>Scripps Institution of Oceanography</a>. <a href='https://igpp.ucsd.edu/'>Institute of Geophysics and Planetary Physics</a> nclizzie@ucsd.edu
 
 profile:
   align: right
@@ -20,3 +20,5 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a graduate student at Scripps Institution of Oceanography, studying Earth's magnetic field in the past.
+
+I am still working on my personal research page.
