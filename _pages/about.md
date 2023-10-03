@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://scripps.ucsd.edu/'>Scripps Institution of Oceanography</a>, <a href='https://igpp.ucsd.edu/'>Institute of Geophysics and Planetary Physics</a> <p> nclizzie@ucsd.edu <p>
+subtitle: PhD Candidate, <a href='https://scripps.ucsd.edu/'>Scripps Institution of Oceanography</a>, <a href='https://igpp.ucsd.edu/'>Institute of Geophysics and Planetary Physics</a> <p> nclizzie@ucsd.edu <p>
 
 profile:
   align: right
