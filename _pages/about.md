@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: munk_balcony.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>201 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, CA 12345</p>
+    <p>Munk 201</p>
+    <p>9500 Gilman Dr</p>
+    <p>La Jolla, CA 92093</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
