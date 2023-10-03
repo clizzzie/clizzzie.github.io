@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Nicole_Clizzie_CV_2022.pdf
+description: My CV last updated in 2022 is in the link.
 toc:
   sidebar: left
 ---
