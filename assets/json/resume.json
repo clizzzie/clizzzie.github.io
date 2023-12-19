@@ -38,7 +38,6 @@
   "education": [
     {
       "institution": "Boise State University, Boise, Idaho",
-      "url": "https://www.uzh.ch/",
       "area": "Applied Mathematics",
       "studyType": "B.S",
       "startDate": "2015-07-01",
@@ -48,6 +47,19 @@
         ""
       ]
     }
+    
+    {
+      "institution": "Air University, Maxwell AFB, Alabama",
+      "area": "Dental Assisting",
+      "studyType": "A.A.S",
+      "startDate": "2009-07-01",
+      "endDate": "2015-01-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }    
+
   ],
   "awards": [],
   "certificates": [],
