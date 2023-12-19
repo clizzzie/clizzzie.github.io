@@ -5,7 +5,7 @@
     "image": "",
     "email": "nclizzie@ucsd.edu",
     "url": "clizzzie.github.io",
-    "summary": "I am a mother, Dinè, veteran, and graduate student.",
+    "summary": "I am a mother, Diné, veteran, and graduate student.",
     "location": {
       "address": "9500 Gilman Dr",
       "postalCode": "CA 92093",
@@ -38,7 +38,7 @@
   "education": [
     {
       "institution": "Boise State University, Boise, Idaho",
-      "area": "Applied Mathematics",
+      "area": "Applied Mathematics & Geoscience",
       "studyType": "B.S",
       "startDate": "2015-07-01",
       "endDate": "2019-12-01",
@@ -46,7 +46,7 @@
       "courses": [
         ""
       ]
-    }
+    },
     
     {
       "institution": "Air University, Maxwell AFB, Alabama",
@@ -71,7 +71,7 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "Dinè bizaad",
+      "language": "Diné bizaad",
       "fluency": "Limited"
     }
   ],
