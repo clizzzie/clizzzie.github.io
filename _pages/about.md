@@ -21,5 +21,3 @@ social: true  # includes social icons at the bottom of the page
 
 I am a graduate student at Scripps Institution of Oceanography, studying Earth's magnetic field in the past.
 My research so far has focused on investigating the paleomagnetic field on timescales ranging from hundreds to millions of years, with the underlying goal to connect the morphology of the magnetic field to geodynamo processes.
-
-I am still working on my personal research page.
