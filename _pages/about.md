@@ -19,6 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+
+My research so far has focused on investigating the Earth’s paleomagnetic field on timescales ranging from hundreds to millions of years, with the underlying goal to connect the morphology of the magnetic field to geodynamo processes.
+
 I am a graduate student at Scripps Institution of Oceanography, studying Earth's magnetic field in the past.
 
 I am still working on my personal research page.
