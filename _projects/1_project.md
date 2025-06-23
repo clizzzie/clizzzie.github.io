@@ -2,7 +2,7 @@
 layout: page
 title: Reversal of drift direction during the Laschamp geomagnetic excursion
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/project_1/GGF100k_HP_nonaxisym_55N.png
 importance: 1
 category: work
 related_publications: 
