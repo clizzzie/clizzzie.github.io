@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects
+description: I am still working on adding my research projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]		# [work, fun]
 horizontal: false
 ---
 
